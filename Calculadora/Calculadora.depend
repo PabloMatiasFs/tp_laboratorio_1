@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1567463048 source:d:\fleitas\calculadora\biblioteca\operaciones.cpp
+
+1567472505 source:d:\fleitas\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Biblioteca/operacionesMatematicas.h"
+
+1567472050 d:\fleitas\calculadora\biblioteca\operacionesmatematicas.h
+
+1567463050 source:e:\fleitas\calculadora\biblioteca\operaciones.cpp
+
+1567472958 source:e:\fleitas\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Biblioteca/operacionesMatematicas.h"
+
+1567548610 e:\fleitas\calculadora\biblioteca\operacionesmatematicas.h
+
+1567549507 source:c:\users\alumno\desktop\calculadora\biblioteca\operaciones.cpp
+
+1567472958 source:c:\users\alumno\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Biblioteca/operacionesMatematicas.h"
+
+1567553737 c:\users\alumno\desktop\calculadora\biblioteca\operacionesmatematicas.h
+
+1567549507 source:c:\users\alumno\desktop\tp_laboratorio_1\calculadora\biblioteca\operaciones.cpp
+
+1567472958 source:c:\users\alumno\desktop\tp_laboratorio_1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./Biblioteca/operacionesMatematicas.h"
+
+1567555690 c:\users\alumno\desktop\tp_laboratorio_1\calculadora\biblioteca\operacionesmatematicas.h
+
